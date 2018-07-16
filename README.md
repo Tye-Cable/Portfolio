@@ -1,4 +1,4 @@
-Hello, welcome to my portfolio. Thank you for stopping by to have look at my exhibition of skills and current projects I am working on. Feel free to contact me with any questions or provide any advice on my work. All feedback is greatly appreciated. If you would like to see my work experience, please stop by my [Linkedin Profile](www.linkedin.com/in/tyecable) or have a look at my [resume](https://s3.amazonaws.com/tc-personal18/TyeCable_Resume.pdf).
+Hello, welcome to my portfolio. Thank you for stopping by to have look at my exhibition of skills and current projects I am working on. Feel free to contact me with any questions or provide any advice on my work. All feedback is greatly appreciated. If you would like to see my work experience, please stop by my [Linkedin Profile](https://linkedin.com/in/tyecable) or have a look at my [resume](https://s3.amazonaws.com/tc-personal18/TyeCable_Resume.pdf).
 
 ### Background
 
