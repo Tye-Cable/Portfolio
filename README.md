@@ -25,6 +25,3 @@ Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Sear
 Deploying machine learning algorthims into production	|	
 
 (c) notates completition of review or learning
-
-### SAP Folder
-
