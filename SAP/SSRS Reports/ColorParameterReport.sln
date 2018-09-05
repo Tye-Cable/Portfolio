@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ColorParameterReport", "ColorParameterReport\ColorParameterReport.rptproj", "{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}.Debug|Default.ActiveCfg = Debug
+		{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}.Debug|Default.Build.0 = Debug
+		{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}.Debug|Default.Deploy.0 = Debug
+		{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}.DebugLocal|Default.Build.0 = DebugLocal
+		{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}.Release|Default.ActiveCfg = Release
+		{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}.Release|Default.Build.0 = Release
+		{5BA0F707-D808-41AA-BCA2-F4CFD2C8C4AE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D067F277-015E-4CA5-9EF4-B24A96A79AD0}
+	EndGlobalSection
+EndGlobal
