@@ -1,1 +1,3 @@
-# SAP 
+# SSRS Health Care Report Demo Files
+dataset https://www.medicare.gov/hospitalcompare/Data/Data-Updated.html#
+I created this report in SSRS using VB. The data consists of hospital information about unexpected hospital visits. In this report, the user can select which state, city, and hospital they are looking for using cascading filters. The output of the report is information about the hospital selected for number of unplanned visits, the condidion of the visit, and how many returned to the hospital after the inital visit. I also added in a calculated column for the rate of return of visitors for additional clarification. 
