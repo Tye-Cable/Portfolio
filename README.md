@@ -7,13 +7,14 @@ I received my Bachelor of Science in Information and Operations Management from 
 ### Road Map 
 Skills | Tools
 --- | ---
-SQL basics (c)	|	Python 
+SSSS (C) | AWS
+SQL basics (c) | Python 
 Stored procedures and views	|	R 
 Descriptive statistics (c)	|	SQL 
 Data preprocessing (c)	|	Excel 
 Data collection API’s	|	TensorFlow
 Data collection Web Scraping (c)	|	Tableau 
-Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest Regression (c)	|	AWS 
+Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest Regression (c)	|	
 Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification	|	
 Clustering: K-Means, Hierarchical Clustering	|	
 Association Rule Learning: Apriori, Eclat (c)	|	
