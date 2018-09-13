@@ -7,7 +7,7 @@ I received my Bachelor of Science in Information and Operations Management from 
 ### Road Map 
 Skills | Tools
 --- | ---
-SSSS (C) | AWS
+SSRS (C) | AWS
 SQL basics (c) | Python 
 Stored procedures and views	|	R 
 Descriptive statistics (c)	|	SQL 
